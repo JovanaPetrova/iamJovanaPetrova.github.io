@@ -1,0 +1,23 @@
+body{
+    background-image: url(MyPhoto1.jpg);
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 1400px;
+    background-size: 1570px;
+    margin:auto;
+    margin-left: -1110px;
+}
+body > div:nth-child(1)
+{
+    margin-left: 1850px;
+    margin-top: 900px;
+}
+body > div> a{
+    text-decoration: none;
+    color: black;
+}
+body > div:nth-child(2),body>div:nth-child(3),body>div:nth-child(4),body>div:nth-child(5)
+{
+    margin-left: 1850px;
+    margin-top: 30px;
+}

@@ -1,0 +1,18 @@
+body{
+    background-image: url("CVtemplate.png");
+    width: 611px;
+    height: 532px;
+    background-repeat: repeat;
+}
+body > div{
+    background-image: url("CV.png");
+    width: 543px;
+    height: 775px;
+    background-repeat: no-repeat;
+    margin-left: 460px;
+}
+body>div>h1{
+    color: deeppink;
+    margin-left: -165px;
+    font-style: italic;
+}

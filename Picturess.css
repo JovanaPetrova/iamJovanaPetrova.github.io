@@ -1,0 +1,48 @@
+body{
+    background-image: url("decoration.jpg");
+    width: 350px;
+    height: 200px;
+    background-repeat: repeat;
+}
+
+body>p:nth-child(1)
+{
+    font-size: 53px;
+    color: deeppink;
+    font-family: emoji;
+    font-style: italic;
+    margin-left: 400px;
+    font-weight: bolder;
+}
+.hearts{
+    background-image: url("TransparentsHeart.png");
+ width: 1725px;
+    height: 1667px;
+    background-repeat: no-repeat;
+    background-size: 100px;
+    display: inline-block;
+    margin-top: -145px;
+    margin-left: 601px;
+}
+body>div{
+    margin-left: 400px;
+}
+body>div:nth-child(4),body>div:nth-child(5),body>div:nth-child(6){
+    margin-top: 30px;
+}
+body > div:nth-child(3){
+
+    margin-top: -1478px;
+}
+body > div:nth-child(4) > img
+{
+    width: 658px;
+}
+body > div:nth-child(5) > img
+{
+    width: 658px;
+}body > div:nth-child(6) > img
+ {
+     width: 658px;
+ }
+

@@ -1,0 +1,33 @@
+body{
+    background-image: url("erasmusTemplate.jpg");
+    width: 630px;
+    height: 255px;
+    background-size: 1850px;
+    background-repeat: no-repeat;
+}
+#quote{
+    background-color: lightblue;
+    width: 740px;
+    height: 32px;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+#VIDEO{
+    width: 589px;
+    margin-left: 587px;
+    margin-top: 300px;
+}
+.flag {
+    display: block;
+    margin-right: 10px;
+    margin-top: 3px;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+body > div > form{
+    margin-top: -636px;
+    margin-left: 90px;
+    font-size: 45px;
+}

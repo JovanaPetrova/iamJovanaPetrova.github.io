@@ -1,0 +1,99 @@
+body{
+    background-image:url("travelWallpaper.jpg") ;
+   width: 1500px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: 1600px;
+}
+body > div{
+    background-color: white;
+    width: 30%;
+    height: 550px;
+}
+body > div > h1{
+    margin-left: 50px;
+    color: pink;
+    font-style: italic;
+    padding-top: 23px;
+
+}
+body > div.Radom > h1,body > div.Ohrid > h1{
+    padding-top: 9px;
+}
+body > div > img
+{
+    width: 300px;
+    margin-left: 50px;
+    padding-bottom: 41px;
+}
+#PF{
+    background-image: url(polandFlag.png);
+    background-repeat: no-repeat;
+    width: 262px;
+    height: 215px;
+    margin-left: 329px;
+    margin-top: -45px;
+    background-size: 105px;
+}
+body > div.Cyprus
+{
+    margin-top: -571px;
+    margin-left: 500px;
+}
+#CF{
+    background-image: url(cyprusFlag.png);
+    background-repeat: no-repeat;
+    width: 270px;
+    height: 215px;
+    margin-left: 329px;
+    margin-top: -40px;
+    background-size: 105px;
+}
+body > div.Greece
+{
+    margin-top: -571px;
+    margin-left: 1000px;
+}
+#GF {
+background-image: url("waving-flag-of-greece-country-isolated-greek-flag-with-cross-and-blue-stripes-on-white-background-flat-illustration-vector.jpg");
+    background-repeat: no-repeat;
+    width: 270px;
+    height:195px;
+    margin-left: 329px;
+    margin-top: -45px;
+    background-size: 105px;
+}
+body > div.Cyprus > img{
+    height: 413px;
+}
+body > div.Greece > img{
+    height: 413px;
+}
+body > div.Ohrid{
+    width: 536px;
+    height: 400px;
+    display: inline-block;
+    margin-top: 50px;
+}
+body > div.Ohrid>img{
+    width: 417px;
+    height: 288px;
+}
+body > div.Ohrid{
+    margin-left: 210px;
+}
+body > div.Radom{
+    width: 536px;
+    height: 400px;
+    display: inline-block;
+
+}
+body > div.Radom>img{
+    width: 370px;
+    height: 288px;
+
+}
+body > div.Radom{
+    margin-left: 788px;
+    margin-top: -484px;
+}
